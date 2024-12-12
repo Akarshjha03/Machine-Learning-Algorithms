@@ -70,4 +70,9 @@ A comprehensive repository featuring essential Machine Learning algorithms! This
    ```bash
    git clone https://github.com/your-username/Machine-Learning-Algorithms.git
    cd Machine-Learning-Algorithms
+   ```
+2. Install required dependencies:
 
+```bash
+pip install -r requirements.txt
+```
