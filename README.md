@@ -76,3 +76,5 @@ A comprehensive repository featuring essential Machine Learning algorithms! This
 ```bash
 pip install -r requirements.txt
 ```
+3. Run individual scripts in their respective folders to explore each algorithm.
+   
