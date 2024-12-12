@@ -63,3 +63,11 @@ A comprehensive repository featuring essential Machine Learning algorithms! This
 ├── Supervised_Algorithms_Comparison/
 ├── Unsupervised_Algorithms_Comparison/
 ```
+
+## 🚀 Getting Started  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/Machine-Learning-Algorithms.git
+   cd Machine-Learning-Algorithms
+
