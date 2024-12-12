@@ -77,4 +77,30 @@ cd Machine-Learning-Algorithms
 pip install -r requirements.txt
 ```
 3. Run individual scripts in their respective folders to explore each algorithm.
+
+---
+
+## 🛠 Tools & Libraries
+
+- Python 🐍  
+- NumPy 📐  
+- Pandas 🗂  
+- Scikit-learn 🤖  
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome! Feel free to fork this repository and submit pull requests with new implementations or improvements.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+**Happy Learning! 😊**
+
    
