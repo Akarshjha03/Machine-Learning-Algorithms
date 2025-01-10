@@ -6,45 +6,77 @@ A comprehensive repository featuring essential Machine Learning algorithms! This
 
 ## 📝 Features
 
-1. 🌳 **ID3 Algorithm (Decision Tree)**  
-   - Implementation of the ID3 decision tree algorithm to classify data.  
-   - Learn how decisions are made using entropy and information gain.
+### 1.📊 Dealing with Data
+- **Objective**: Work with libraries like NumPy, Pandas, and Statistics.
+- **Task**: Analyze and manipulate datasets effectively.
 
-2. 🤖 **Artificial Neural Network with Backpropagation**  
-   - Build and train an ANN from scratch.  
-   - Test its performance on datasets of your choice.  
+---
 
-3. 📈 **Naïve Bayesian Classifier**  
-   - Classify data using the naïve Bayesian approach.  
-   - Compute and analyze the accuracy using sample `.CSV` data.  
+### 2.📈 Data Analysis & Visualization
+- **Objective**: Perform exploratory data analysis.
+- **Task**: Visualize insights using the Diwali Sales dataset.
 
-4. 📚 **Text Classification using Naïve Bayesian Classifier**  
-   - Classify documents into categories.  
-   - Demonstrates text classification tasks effectively.
+---
 
-5. 🩺 **Bayesian Network for Medical Diagnosis**  
-   - Construct a Bayesian network using medical data.  
-   - Diagnose heart disease using the Heart Disease Dataset.
+### 3.🔢 Linear and Logistic Regression
+- **Objective**: Implement basic regression techniques.
+- **Task**: Train and test linear and logistic regression models.
 
-6. 🧩 **Clustering Algorithms**  
-   - **Expectation-Maximization (EM)** algorithm for clustering.  
-   - Compare with **K-Means** clustering using the same `.CSV` dataset.  
+---
 
-7. 🌸 **K-Nearest Neighbor (KNN)**  
-   - Classify the Iris dataset using KNN.  
-   - An intuitive approach to instance-based learning.  
+### 4.🧮 Naïve Bayesian Classifier
+- **Objective**: Classify data using the naïve Bayesian approach.
+- **Task**: Compute and evaluate accuracy on sample `.CSV` datasets.
 
-8. 🔢 **Linear and Logistic Regression**  
-   - Implement and compare **linear** and **logistic regression**.  
-   - Evaluate performance on sample datasets.  
+---
 
-9. 🧪 **Comparison of Supervised Learning Algorithms**  
-   - Experiment with various supervised learning algorithms.  
-   - Compare their accuracies using relevant datasets.  
+### 5.📚 Text Classification with Naïve Bayesian Classifier
+- **Objective**: Classify text documents into categories.
+- **Task**: Use a naïve Bayesian model to demonstrate document classification.
 
-10. 🔍 **Comparison of Unsupervised Learning Algorithms**  
-    - Explore and compare different clustering techniques.  
-    - Gain insights into unsupervised methods.
+---
+
+### 6.🌳 Decision Tree with ID3 Algorithm
+- **Objective**: Build and understand decision trees.
+- **Task**: Implement the ID3 algorithm to classify data.
+
+---
+
+### 7.🌸 K-Nearest Neighbor (KNN)
+- **Objective**: Learn instance-based learning.
+- **Task**: Classify the Iris dataset using the KNN algorithm.
+
+---
+
+### 8.🧩 Clustering Algorithms
+- **Objective**: Explore unsupervised learning.
+- **Task**: Apply:
+  - **Expectation-Maximization (EM)** for clustering.
+  - **K-Means** for comparison using the same `.CSV` dataset.
+
+---
+
+### 9.🩺 Bayesian Network for Medical Diagnosis
+- **Objective**: Model probabilistic relationships for diagnostics.
+- **Task**: Construct a Bayesian network and diagnose heart disease using the Heart Disease dataset.
+
+---
+
+### 10.🧪 Comparison of Supervised Learning Algorithms
+- **Objective**: Evaluate the performance of different supervised learning methods.
+- **Task**: Compare algorithms like Linear Regression, SVM, and Decision Trees on suitable datasets.
+
+---
+
+### 11.🔍 Comparison of Unsupervised Learning Algorithms
+- **Objective**: Understand clustering techniques.
+- **Task**: Compare methods like **K-Means** and **K-Mode**.
+
+---
+
+### 12.🤖 Artificial Neural Network with Backpropagation
+- **Objective**: Understand the workings of neural networks.
+- **Task**: Build and train an ANN using the backpropagation algorithm on appropriate datasets.
 
 ---
 
