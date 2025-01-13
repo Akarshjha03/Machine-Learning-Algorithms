@@ -125,7 +125,7 @@ pip install -r requirements.txt
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests with new implementations or improvements.
 
----
+
 
 ## 📜 License
 
