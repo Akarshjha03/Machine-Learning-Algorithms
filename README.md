@@ -1,5 +1,4 @@
 # Machine Learning Algorithms 🤖📊
-
 A comprehensive repository featuring essential Machine Learning algorithms! This repository covers a mix of **Supervised Learning**, **Unsupervised Learning**, **Neural Networks**, **Bayesian Learning**, and **Optimization Techniques** to aid your understanding and exploration of ML concepts.
 
 ---
